@@ -4,7 +4,7 @@
 
 ## 📦 Overview
 
-Hacktoberfest2025 is an open-source project designed to welcome new contributors. Whether you're interested in learning about coding, documentation, or collaboration on GitHub, this project offers a supportive environment. Join us in celebrating contributions to open source this October!
+[Hacktoberfest2025](https://hacktoberfest.com) is an open-source project designed to welcome new contributors. Whether you're interested in learning about coding, documentation, or collaboration on GitHub, this project offers a supportive environment. Join us in celebrating contributions to open source this October!
 
 ## 🚀 Getting Started
 
