@@ -23,7 +23,7 @@ def play_game():
     while True:
         user_choice = input("Choose Rock, Paper, or Scissors (or 'quit' to exit): ").lower()
         if user_choice == 'quit':
-            print("Thanks for playing!")
+            print("Thanks for playing!!!!")
             break
         if user_choice not in ['rock', 'paper', 'scissors']:
             print("Invalid choice, please try again.")
