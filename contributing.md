@@ -9,49 +9,35 @@
 - Try to keep pull requests small to minimize merge conflicts
 
 
-## Getting Started 🤩🤗:
+# Getting  Started 🤩🤗:
 
-- Fork this repo (button on top)
-- Clone on your local machine
-
-```terminal
+Fork this repo (button on top)
+Clone to your local machine:
 git clone https://github.com/muhtalhakhan/Hacktoberfest2025.git
-```
-- Navigate to project directory.
-```terminal
-cd Hacktoberfest2023
-```
 
-- Create a new Branch
+Navigate to project directory:
+cd Hacktoberfest2025
 
-```markdown
+Create a new branch:
 git checkout -b my-new-branch
-```
-- Add your Name and your project
-```markdown
+
+Add your contributions (UI/content changes)
+
+Stage and commit your changes:
 git add .
-```
-- Commit your changes.
+git commit -m "Updated contributor guide and documentation fixes"
 
-```markdown
-git commit -m "Relevant message"
-```
-- Then push 
-```markdown
+Push to your branch:
 git push origin my-new-branch
-```
 
-
-- Create a new pull request from your forked repository
-
-<br>
+Create a pull request 🚀
 
 ## Avoid Conflicts {Syncing your fork}
 
 An easy way to avoid conflicts is to add an 'upstream' for your git repo, as other PR's may be merged while you're working on your branch/fork.   
 
 ```terminal
-git remote add upstream https://github.com/muhtalhakhan/Hacktoberfest2025
+git remote add upstream https://github.com/muhtalhakhan/Hacktoberfest2025.git
 ```
 
 You can verify that the new remote has been added by typing
